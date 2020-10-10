@@ -1,3 +1,8 @@
+/////////////////////////////////////////////////////////////////RANDOM PASSWORD GENERATOR USING TKINTER MODULE///////////////////////////////////////////////////////////////
+HI GUYS, THIS A PROGRAM TO GENERATE A OTP USING TKINTER MODULE . BASICALLY IT IS A GUI PROGRAM THAT GENERTAES PASSWORDS ON THE USERS PREFERENCE. USER JUST  NEEDS TO SELECT
+THE LENGTH OF THE PASSWORD AND TYPE OF PASSWORD(LOW,MEDIUM,HARD). MEDIUM IS THE TYPE WHICH IS SELECTD BY DEFAULT IN THIS PROGRAM.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Python program to generate random 
 # password using Tkinter module 
 import random 
